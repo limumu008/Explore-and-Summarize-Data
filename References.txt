@@ -1,0 +1,4 @@
+1) https://remi-daigle.github.io/2017-CHONe-Data/dataviz.nb.html#the_tidyr_package
+2) http://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/src/multivariateanalysis.html
+3) https://github.com/BlaneG/explore-and-summarize-data/blob/master/Red_Wine_Analysis.Rmd
+4) https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html
